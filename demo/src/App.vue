@@ -9,4 +9,6 @@ import { reactive } from "vue";
 const obj = reactive({
   data: "abc",
 });
+
+conosle.log('xxx')
 </script>
