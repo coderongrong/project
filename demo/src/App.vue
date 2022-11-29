@@ -3,7 +3,6 @@
   <div>{{ obj.data }}</div>
 </template>
 
-
 <script setup>
 import { reactive } from "vue";
 
