@@ -9,4 +9,6 @@ import { reactive } from "vue";
 const obj = reactive({
   data: "abc",
 });
+console.log('main')
+const a = 11
 </script>
