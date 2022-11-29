@@ -11,4 +11,6 @@ const obj = reactive({
 });
 console.log('main')
 const a = 11
+
+var b = 10
 </script>
