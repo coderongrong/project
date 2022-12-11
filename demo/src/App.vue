@@ -17,4 +17,6 @@ var c = 22
 // git updata
 var b = 10
 // git config --global pull.rebase true
+// git config --global pull.rebase true
+// git config --global pull.rebase true
 </script>
