@@ -19,4 +19,5 @@ console.log('xxx')
 console.log('xxx')
 console.log('xxx')
 var b = 10
+// git config --global pull.rebase true
 </script>
