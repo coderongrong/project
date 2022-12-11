@@ -12,8 +12,6 @@ const obj = reactive({
   data: "abc",
 });
 
-console.log('xxx')
-console.log('main')
 const a = 11
 var c = 22
 console.log('xxx')
