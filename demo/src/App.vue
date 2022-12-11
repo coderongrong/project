@@ -14,11 +14,6 @@ const obj = reactive({
 
 const a = 11
 var c = 22
-console.log('xxx')
-console.log('xxx')
-console.log('xxx')
-console.log('xxx')
-console.log('xxx')
 // git updata
 var b = 10
 // git config --global pull.rebase true
