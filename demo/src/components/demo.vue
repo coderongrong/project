@@ -8,7 +8,7 @@ export default {
   props: {
     msg: {
       type: String,
-      default: () => 'abc'
+      default: () => 'demo'
     }
   },
   data() {
@@ -18,3 +18,6 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+</style>
