@@ -18,7 +18,6 @@ console.log('xxx')
 console.log('xxx')
 console.log('xxx')
 console.log('xxx')
-console.log('xxx')
 // git updata
 var b = 10
 // git config --global pull.rebase true
