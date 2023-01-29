@@ -11,7 +11,7 @@ app.mount('#app')
 
 console.log('xxxs')
 
-var arr = [1,2,3,4,5,6,7,8,1,2,3,4]
+var arr = [1,2,3,4,5,6,7,8,1,2,3,4, {}, {}]
 
 function unique(arr) {
     // console.log('arr', arr);
@@ -22,11 +22,11 @@ function unique(arr) {
     //         _arr.push(arr[i])
     //     }
     // }
-     return arr.filter((item, index) => {
+    return arr.filter((item, index) => {
         return arr.indexOf(item) == index
     })
 
-    return _arr
+    // return _arr
     // return new Set(arr)
     
 }
